@@ -1,0 +1,14 @@
+C:\CPOO\Enumeracao\bin\Debug\netcoreapp3.1\Enumeracao.exe
+C:\CPOO\Enumeracao\bin\Debug\netcoreapp3.1\Enumeracao.deps.json
+C:\CPOO\Enumeracao\bin\Debug\netcoreapp3.1\Enumeracao.runtimeconfig.json
+C:\CPOO\Enumeracao\bin\Debug\netcoreapp3.1\Enumeracao.runtimeconfig.dev.json
+C:\CPOO\Enumeracao\bin\Debug\netcoreapp3.1\Enumeracao.dll
+C:\CPOO\Enumeracao\bin\Debug\netcoreapp3.1\Enumeracao.pdb
+C:\CPOO\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.csproj.AssemblyReference.cache
+C:\CPOO\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\CPOO\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.AssemblyInfoInputs.cache
+C:\CPOO\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.AssemblyInfo.cs
+C:\CPOO\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.csproj.CoreCompileInputs.cache
+C:\CPOO\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.dll
+C:\CPOO\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.pdb
+C:\CPOO\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.genruntimeconfig.cache
